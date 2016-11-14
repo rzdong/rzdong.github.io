@@ -1,6 +1,8 @@
-<<<<<<< HEAD
-# Easte-r.github.io
-=======
-# Easte-r.github.io
-electric
->>>>>>> origin/master
+#这是一个模拟的网站首页界面
+
+>其中用到了一些的jquery，下拉列表做的比较粗糙,用的是css3，背景用的是canvas画布，没有后端交互功能
+
+# https://Easte-r.github.io  这是可访问地址
+
+>浏览器访问可以看到实际的效果
+
