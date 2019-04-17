@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="css/jquery.slideBox.css" rel="stylesheet" type="text/css" />
-<title>主页</title>
+<title>主页<?php echo "testphp" ?></title>
 <style>
 	* {
 		margin: 0;
@@ -304,7 +304,7 @@ jQuery(function($){
 	<div class="head">
     	<div class="shouye" onmouseover="function1()" onmouseleave="function2()">
     		<div class="shouye1">
-    			<b>首页</b>
+    			<b>首页<?php echo "testphp" ?></b>
 				<div id="img"><img src="image/topjiantou.png" id="top"></div>
 			</div>
     	</div>
